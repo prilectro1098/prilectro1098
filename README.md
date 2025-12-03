@@ -1,28 +1,28 @@
 # 👋 Hey there, I’m **Pritam Saha** <br/>
 
-🎓 **Final Year B.Tech** | Electronics & Communication Engineering (ECE) <br/>
-🚀 Passionate about **Building Real-World Tech Products** using **Python, AI, IoT & Embedded Systems** <br/>
-📚 Preparing for **GATE (ECE)** | Focused on **Deep Tech & Industry-ready Skills** <br/>
+ **Final Year B.Tech** | Electronics & Communication Engineering (ECE) <br/>
+ Passionate about **Building Real-World Tech Products** using **Python, AI, IoT & Embedded Systems** <br/>
+ Preparing for **GATE (ECE)** | Focused on **Deep Tech & Industry-ready Skills** <br/>
 
 ---
 
-## 💡 About Me <br/>
-- 🛠 **Tech Builder:** From **real-time AI health systems** 🫀 to **decision-making simulators** 🎯 <br/>
-- 📊 Love turning **data** into **insights** and **code** into **products** <br/>
-- 🌱 Currently learning: **Advanced Python**, **IoT**, **AI/ML**, and **German 🇩🇪** <br/>
-- 🏸 Hobbies: **Badminton**, **Kabaddi**, and **exploring new tech trends** <br/>
-- 🥇 Consistently ranked in the **Top 2** of my batch | CGPA: **9.24/10** <br/>
+##  About Me <br/>
+-  **Tech Builder:** From **real-time AI health systems** 🫀 to **decision-making simulators** 🎯 <br/>
+-  Love turning **data** into **insights** and **code** into **products** <br/>
+-  Currently learning: **Advanced Python**, **IoT**, **AI/ML**, and **German 🇩🇪** <br/>
+-  Hobbies: **Badminton**, **Kabaddi**, and **exploring new tech trends** <br/>
+-  Consistently ranked in the **Top 2** of my batch | CGPA: **9.24/10** <br/>
 
 ---
 
-## 🏆 Highlights <br/>
-- 🖥 **Fire Detection & Classification System** 🔥 using ML + MODIS Satellite Data <br/>
-- ⚡ **Smart IoT Projects** simulated in Proteus & Arduino <br/>
-- 📡 Strong foundation in **Analog Circuits**, **Control Systems**, and **Electromagnetic Waves** <br/>
-- 🎯 Achieved **10/10 CGPA** in all mini-projects <br/>
+##  Highlights <br/>
+-  **Fire Detection & Classification System**  using ML + MODIS Satellite Data <br/>
+-  **Smart IoT Projects** simulated in Proteus & Arduino <br/>
+-  Strong foundation in **Analog Circuits**, **Control Systems**, and **Electromagnetic Waves** <br/>
+-  Achieved **10/10 CGPA** in all mini-projects <br/>
 
 
-> ⚡ *"Code is not just instructions for a machine, it’s a conversation with the future."* <br/>
+>  *"Code is not just instructions for a machine, it’s a conversation with the future."* <br/>
 
 
 
@@ -37,7 +37,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=prilectro1098&theme=merko&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=prilectro1098&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+###  Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
