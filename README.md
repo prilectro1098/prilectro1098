@@ -11,7 +11,7 @@
 -  Love turning **data** into **insights** and **code** into **products** <br/>
 -  Currently learning: **Advanced Python**, **IoT**, **AI/ML**, and **German 🇩🇪** <br/>
 -  Hobbies: **Badminton**, **Kabaddi**, and **exploring new tech trends** <br/>
--  Consistently ranked in the **Top 2** of my batch | CGPA: **9.24/10** <br/>
+-  Consistently ranked in the **Top 2** of my batch | CGPA: **9.30/10** <br/>
 
 ---
 
